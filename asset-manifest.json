@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94feebbd.chunk.css",
+    "main.js": "/static/js/main.e98ce74f.chunk.js",
+    "main.js.map": "/static/js/main.e98ce74f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a913bf25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a913bf25.js.map",
+    "static/js/2.87a999ed.chunk.js": "/static/js/2.87a999ed.chunk.js",
+    "static/js/2.87a999ed.chunk.js.map": "/static/js/2.87a999ed.chunk.js.map",
+    "static/js/3.8a8ab403.chunk.js": "/static/js/3.8a8ab403.chunk.js",
+    "static/js/3.8a8ab403.chunk.js.map": "/static/js/3.8a8ab403.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94feebbd.chunk.css.map": "/static/css/main.94feebbd.chunk.css.map",
+    "static/js/2.87a999ed.chunk.js.LICENSE.txt": "/static/js/2.87a999ed.chunk.js.LICENSE.txt",
+    "static/media/20210803_175827.7c47de19.jpg": "/static/media/20210803_175827.7c47de19.jpg",
+    "static/media/GNU_Linux Distributions Timeline.a4f3340a.svg": "/static/media/GNU_Linux Distributions Timeline.a4f3340a.svg",
+    "static/media/Rape_rate_per_100,000_-_country_comparison_-_United_Nations_2012.d4b17648.png": "/static/media/Rape_rate_per_100,000_-_country_comparison_-_United_Nations_2012.d4b17648.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a913bf25.js",
+    "static/js/2.87a999ed.chunk.js",
+    "static/css/main.94feebbd.chunk.css",
+    "static/js/main.e98ce74f.chunk.js"
+  ]
+}
