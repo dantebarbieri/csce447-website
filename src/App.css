@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  margin-top: 1vmin;
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 1vmin;
+  -moz-box-shadow: 0px 0px 40px rgba(0,0,0,.5);
+  -webkit-box-shadow: 0px 0px 40px rgba(0,0,0,.5);
+  box-shadow: 0px 0px 40px rgba(0,0,0,.5);
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #282c34;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  font-size: calc(10px + 1.5vmin);
+  color: white;
+}
+
+.App-body p {
+  padding: 0px 1vmin;
+  text-align: left;
+  text-shadow: -1px 1px 4px #000,
+				  1px 1px 4px #000,
+				  1px -1px 0 #000,
+				  -1px -1px 0 #000;
+}
+
+.Visualization {
+  max-width: 100%;
+}
+
+.Visualization > .Attribution {
+  text-align: right;
+}
+
+p.Attribution {
+  font-size: calc(10px + 0.5vmin);
+  text-shadow: -1px 1px 1px #000,
+				  1px 1px 1px #000,
+				  1px -1px 0 #000,
+				  -1px -1px 0 #000;
+}
+
+p a {
+  text-decoration: none;
+  text-shadow: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+.Helpful-viz {
+  margin: 1vmin;
+  background-color: #007A33;
+}
+
+.Unhelpful-viz {
+  margin: 1vmin;
+  background-color: #CB333B;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
