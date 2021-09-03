@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/csce447-website/static/css/main.19efdf28.chunk.css",
+    "main.js": "/csce447-website/static/js/main.edd1d1f0.chunk.js",
+    "main.js.map": "/csce447-website/static/js/main.edd1d1f0.chunk.js.map",
+    "runtime-main.js": "/csce447-website/static/js/runtime-main.fbaae626.js",
+    "runtime-main.js.map": "/csce447-website/static/js/runtime-main.fbaae626.js.map",
+    "static/js/2.87a999ed.chunk.js": "/csce447-website/static/js/2.87a999ed.chunk.js",
+    "static/js/2.87a999ed.chunk.js.map": "/csce447-website/static/js/2.87a999ed.chunk.js.map",
+    "static/js/3.8a8ab403.chunk.js": "/csce447-website/static/js/3.8a8ab403.chunk.js",
+    "static/js/3.8a8ab403.chunk.js.map": "/csce447-website/static/js/3.8a8ab403.chunk.js.map",
+    "index.html": "/csce447-website/index.html",
+    "static/css/main.19efdf28.chunk.css.map": "/csce447-website/static/css/main.19efdf28.chunk.css.map",
+    "static/js/2.87a999ed.chunk.js.LICENSE.txt": "/csce447-website/static/js/2.87a999ed.chunk.js.LICENSE.txt",
+    "static/media/20210803_175827.7c47de19.jpg": "/csce447-website/static/media/20210803_175827.7c47de19.jpg",
+    "static/media/GNU_Linux Distributions Timeline.a4f3340a.svg": "/csce447-website/static/media/GNU_Linux Distributions Timeline.a4f3340a.svg",
+    "static/media/Rape_rate_per_100,000_-_country_comparison_-_United_Nations_2012.d4b17648.png": "/csce447-website/static/media/Rape_rate_per_100,000_-_country_comparison_-_United_Nations_2012.d4b17648.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbaae626.js",
+    "static/js/2.87a999ed.chunk.js",
+    "static/css/main.19efdf28.chunk.css",
+    "static/js/main.edd1d1f0.chunk.js"
+  ]
+}
